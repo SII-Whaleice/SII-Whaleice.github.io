@@ -8,7 +8,7 @@
 # Site Settings
 title                    : "Jingyu Li"
 description              : "PHD Student at Fudan University"
-repository               : "SII-Whaleice/Jingyu-Li.github.io"
+repository               : "SII-Whaleice/SII-Whaleice.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,10 +21,10 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Lorem ipsum"
+  name             : "Jingyu Li"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Lorem ipsum College"
-  location         : "Beijing, China"
+  bio              : "PHD Student at Fudan University"
+  location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=APdkZ6oAAAAJ&hl=zh-CN"
