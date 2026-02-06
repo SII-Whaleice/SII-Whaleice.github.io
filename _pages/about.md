@@ -19,12 +19,13 @@ redirect_from:
 
 I am currently a PhD student at the School of Data Science, Fudan University, under the supervision of [Prof. Li Zhang](https://lzrobots.github.io/). Prior to this, I received my B.Sc. and M.Sc. degrees from Huazhong University of Science and Technology, advised by [Prof. Xiang Bai](https://scholar.google.com/citations?user=UeltiQ4AAAAJ&hl=en).
 
-My research interests focus on autonomous driving perception, 3D object detection, and semi-supervised 3D object detection. Looking forward, I am particularly interested in vision-language-action model based autonomous driving, vision-language-model based navigation, and world models.
+My research interests focus on Autonomous Driving perception, 3D Object Detection, and Semi-supervised 3D Object Detection. Looking forward, I am particularly interested in Vision-Language-Action model based Autonomous Driving, Vision-Language-Model based Navigation, and World Models on Embodied AI.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2026.02*: &nbsp;🎉🎉 Two papers (GeoTeacher, ImagiDrive) are accepted by ICRA 2026!
+- *2025.09*: &nbsp;🎉🎉 VeterAD is accepted by AAAi 2026! 
+- *2023.01*: &nbsp;🎉🎉 DDS3D is accepted by ICRA 2023! 
 
 # 📝 Publications 
 
