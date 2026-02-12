@@ -40,7 +40,7 @@ My research interests focus on Autonomous Driving perception, 3D Object Detectio
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2016</div><img src='images/imagidrive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/imagidrive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving](https://arxiv.org/abs/2508.11428)
@@ -108,5 +108,5 @@ Bozhou Zhang*, **Jingyu Li\***, Nan Song, Li Zhang
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2023.05 - 2023.08*, Baidu IDG, China.
-- *2025.10 - present*, Li Auto Inc, China.
+- *2025.10 - present*, [Li Auto Inc], China.
+- *2023.05 - 2023.08*, Baidu IDG Apollo, China.
