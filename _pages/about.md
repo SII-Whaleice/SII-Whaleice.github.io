@@ -40,7 +40,7 @@ My research interests focus on Autonomous Driving perception, 3D Object Detectio
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2016</div><img src='images/imagidrive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving](https://arxiv.org/abs/2508.11428)
@@ -62,7 +62,7 @@ My research interests focus on Autonomous Driving perception, 3D Object Detectio
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/veteranad.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Perception in Plan: Coupled Perception and Planning for End-to-End Autonomous Driving](https://arxiv.org/pdf/2508.11488)
@@ -73,7 +73,7 @@ Bozhou Zhang, **Jingyu Li**, Nan Song, Li Zhang
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2023</div><img src='images/dds3d.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Dds3d: Dense pseudo-labels with dynamic threshold for semi-supervised 3d object detection](https://arxiv.org/abs/2303.05079)
