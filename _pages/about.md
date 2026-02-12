@@ -29,6 +29,17 @@ My research interests focus on Autonomous Driving perception, 3D Object Detectio
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/sgdrive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving](https://arxiv.org/pdf/2601.05640)
+
+**Jingyu Li**, Junjie Wu, Dongnan Hu, Xiangkai Huang, Bin Sun, Zhihui Hao, Xianpeng Lang, Xiatian Zhu, Li Zhang
+
+[**Paper**](https://arxiv.org/pdf/2601.05640) | [**Code**](https://github.com/LogosRoboticsGroup/SGDrive)
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
