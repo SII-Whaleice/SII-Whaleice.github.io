@@ -85,7 +85,7 @@ Bozhou Zhang*, **Jingyu Li\***, Nan Song, Li Zhang
 </div>
 
 - [Future-aware end-to-end driving: Bidirectional modeling of trajectory planning and scene evolution](https://arxiv.org/abs/2510.11092), Bozhou Zhang, Nan Song, **Jingyu Li**, **NeurIPs 2025**
-- [RealEngine: Simulating Autonomous Driving in Realistic Context](https://arxiv.org/abs/2505.16902), Junzhe Jiang, Nan Song, **Jingyu Li**, **ARxiv 2025**
+- [RealEngine: Simulating Autonomous Driving in Realistic Context](https://arxiv.org/abs/2505.16902), Junzhe Jiang, Nan Song, **Jingyu Li**, **arxiv 2025**
 - [Miceval: Unveiling multimodal chain of thought’s quality via image description and reasoning steps](https://aclanthology.org/2025.naacl-long.504/), Xiongtao Zhou, Jie He, Lanyu Chen, **Jingyu Li**, **NAACL 2025**
 - [An Empirical Study of Ground Segmentation for 3-D Object Detection](https://ieeexplore.ieee.org/abstract/document/10858601/), Hongcheng Yang, Dingkang Liang, Zhe Liu, **Jingyu Li** **IEEE T-ITS**
 - [A simple vision transformer for weakly semi-supervised 3d object detection](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_A_Simple_Vision_Transformer_for_Weakly_Semi-supervised_3D_Object_Detection_ICCV_2023_paper.html), Dingyuan Zhang, Dingkang Liang, Zhikang Zhou, **Jingyu Li**, **ICCV 2023**
