@@ -91,17 +91,22 @@ Bozhou Zhang*, **Jingyu Li\***, Nan Song, Li Zhang
 - [A simple vision transformer for weakly semi-supervised 3d object detection](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_A_Simple_Vision_Transformer_for_Weakly_Semi-supervised_3D_Object_Detection_ICCV_2023_paper.html), Dingyuan Zhang, Dingkang Liang, Zhikang Zhou, **Jingyu Li**, **ICCV 2023**
 - [Sood: Towards semi-supervised oriented object detection](https://openaccess.thecvf.com/content/CVPR2023/html/Hua_SOOD_Towards_Semi-Supervised_Oriented_Object_Detection_CVPR_2023_paper.html), W Hua, Dingkang Liang, **Jingyu Li**, **CVPR 2023**
 
-# 🎖 Honors and Awards
+<!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
+
+# 🎖 Professional Service
+- Reviewer: CVPR,ICCV,ECCV,NeurIPs,ICRA,AAAI
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.09 - present (now)*, AI&EE, Fudan University, Shanghai, China. 
+- *2021.09 - 2024.06, EE, Huazhong University of Science and Technology, Wuhan, China. 
+- *2017.09 - 2021.06, EE,Huazhong University of Science and Technology, Wuhan, China. 
 
-# 💬 Invited Talks
+<!-- # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.05 - 2023.08*, Baidu IDG, China.
+- *2025.10 - present*, Li Auto Inc, China.
