@@ -51,7 +51,7 @@ My research interests focus on Autonomous Driving perception, 3D Object Detectio
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICRA 2026</div><img src='images/geoteacher.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [GeoTeacher: Geometry-Guided Semi-Supervised 3D Object Detection](https://arxiv.org/abs/2512.23147)
