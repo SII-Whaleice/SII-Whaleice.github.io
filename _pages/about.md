@@ -67,7 +67,7 @@ My research interests focus on Autonomous Driving perception, 3D Object Detectio
 
 [Perception in Plan: Coupled Perception and Planning for End-to-End Autonomous Driving](https://arxiv.org/pdf/2508.11488)
 
-Bozhou Zhang, **Jingyu Li**, Nan Song, Li Zhang
+Bozhou Zhang*, **Jingyu Li\***, Nan Song, Li Zhang
 
 [**Paper**](https://arxiv.org/pdf/2508.11488) | [**Code**](https://github.com/LogosRoboticsGroup/VeteranAD) 
 </div>
