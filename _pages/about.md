@@ -34,7 +34,7 @@ My research interests focus on Autonomous Driving perception, 3D Object Detectio
 
 [SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving](https://arxiv.org/pdf/2601.05640)
 
-**Jingyu Li**, Junjie Wu, Dongnan Hu, Xiangkai Huang, Bin Sun, Zhihui Hao, Xianpeng Lang, Xiatian Zhu, Li Zhang
+**Jingyu Li\***, Junjie Wu\*, Dongnan Hu, Xiangkai Huang, Bin Sun, Zhihui Hao, Xianpeng Lang, Xiatian Zhu, Li Zhang
 
 [**Paper**](https://arxiv.org/pdf/2601.05640) | [**Code**](https://github.com/LogosRoboticsGroup/SGDrive)
 </div>
@@ -45,7 +45,7 @@ My research interests focus on Autonomous Driving perception, 3D Object Detectio
 
 [ImagiDrive: A Unified Imagination-and-Planning Framework for Autonomous Driving](https://arxiv.org/abs/2508.11428)
 
-**Jingyu Li**, Bozhou Zhang, Xin Jin, Jiankang Deng, Xiatian Zhu, Li Zhang
+**Jingyu Li\***, Bozhou Zhang\*, Xin Jin, Jiankang Deng, Xiatian Zhu, Li Zhang
 
 [**Paper**](https://arxiv.org/abs/2508.11428)
 </div>
@@ -56,7 +56,7 @@ My research interests focus on Autonomous Driving perception, 3D Object Detectio
 
 [GeoTeacher: Geometry-Guided Semi-Supervised 3D Object Detection](https://arxiv.org/abs/2512.23147)
 
-**Jingyu Li**, Xiaolong Zhao, Zhe Liu, Wenxiao Wu, Li Zhang
+**Jingyu Li**, Xiaolong Zhao\*, Zhe Liu, Wenxiao Wu, Li Zhang
 
 [**Paper**](https://arxiv.org/abs/2512.23147) 
 </div>
@@ -78,7 +78,7 @@ Bozhou Zhang*, **Jingyu Li\***, Nan Song, Li Zhang
 
 [Dds3d: Dense pseudo-labels with dynamic threshold for semi-supervised 3d object detection](https://arxiv.org/abs/2303.05079)
 
-**Jingyu Li**, Zhe Liu, Jinghua Hou, Dingkang Liang
+**Jingyu Li\***, Zhe Liu\*, Jinghua Hou, Dingkang Liang
 
 [**Paper**](https://arxiv.org/abs/2303.05079) | [**Code**](https://github.com/SII-Whaleice/DDS3D) 
 </div>
