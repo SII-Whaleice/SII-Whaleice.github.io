@@ -23,13 +23,14 @@ My research interests focus on Autonomous Driving perception, 3D Object Detectio
 
 
 # 🔥 News
+- *2026.02*: &nbsp;🎉🎉 SGDrive are accepted by CVPR 2026!
 - *2026.02*: &nbsp;🎉🎉 Two papers (GeoTeacher, ImagiDrive) are accepted by ICRA 2026!
 - *2025.09*: &nbsp;🎉🎉 VeteranAD is accepted by AAAI 2026! 
 - *2023.01*: &nbsp;🎉🎉 DDS3D is accepted by ICRA 2023! 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv 2026</div><img src='images/sgdrive.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2026</div><img src='images/sgdrive.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SGDrive: Scene-to-Goal Hierarchical World Cognition for Autonomous Driving](https://arxiv.org/pdf/2601.05640)
@@ -89,7 +90,7 @@ Bozhou Zhang*, **Jingyu Li\***, Nan Song, Li Zhang
 - [Miceval: Unveiling multimodal chain of thought’s quality via image description and reasoning steps](https://aclanthology.org/2025.naacl-long.504/), Xiongtao Zhou, Jie He, Lanyu Chen, **Jingyu Li**, **NAACL 2025**
 - [An Empirical Study of Ground Segmentation for 3-D Object Detection](https://ieeexplore.ieee.org/abstract/document/10858601/), Hongcheng Yang, Dingkang Liang, Zhe Liu, **Jingyu Li** **IEEE T-ITS**
 - [A simple vision transformer for weakly semi-supervised 3d object detection](https://openaccess.thecvf.com/content/ICCV2023/html/Zhang_A_Simple_Vision_Transformer_for_Weakly_Semi-supervised_3D_Object_Detection_ICCV_2023_paper.html), Dingyuan Zhang, Dingkang Liang, Zhikang Zhou, **Jingyu Li**, **ICCV 2023**
-- [Sood: Towards semi-supervised oriented object detection](https://openaccess.thecvf.com/content/CVPR2023/html/Hua_SOOD_Towards_Semi-Supervised_Oriented_Object_Detection_CVPR_2023_paper.html), W Hua, Dingkang Liang, **Jingyu Li**, **CVPR 2023**
+- [Sood: Towards semi-supervised oriented object detection](https://openaccess.thecvf.com/content/CVPR2023/html/Hua_SOOD_Towards_Semi-Supervised_Oriented_Object_Detection_CVPR_2023_paper.html), Wei Hua, Dingkang Liang, **Jingyu Li**, **CVPR 2023**
 
 <!-- # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -99,7 +100,7 @@ Bozhou Zhang*, **Jingyu Li\***, Nan Song, Li Zhang
 - Reviewer: CVPR,ICCV,ECCV,NeurIPs,ICRA,AAAI
 
 # 📖 Educations
-- *2024.09 - present (now)*, AI&EE, Fudan University, Shanghai, China. 
+- *2024.09 - present*, AI&EE, Fudan University, Shanghai, China. 
 - *2021.09 - 2024.06, EE, Huazhong University of Science and Technology, Wuhan, China. 
 - *2017.09 - 2021.06, EE,Huazhong University of Science and Technology, Wuhan, China. 
 
@@ -108,5 +109,5 @@ Bozhou Zhang*, **Jingyu Li\***, Nan Song, Li Zhang
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.10 - present*, [Li Auto Inc], China.
+- *2025.10 - present*, Li Auto Inc, China.
 - *2023.05 - 2023.08*, Baidu IDG Apollo, China.
