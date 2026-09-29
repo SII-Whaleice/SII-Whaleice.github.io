@@ -142,7 +142,7 @@
   {
     "title": "Sood: Towards semi-supervised oriented object detection",
     "url": "https://openaccess.thecvf.com/content/CVPR2023/html/Hua_SOOD_Towards_Semi-Supervised_Oriented_Object_Detection_CVPR_2023_paper.html",
-    "authors": "Wei Hua, Dingkang Liang, Jingyu Li",
+    "authors": "Wei Hua*, Dingkang Liang*, Jingyu Li, Xiaolong Liu, Zhikang Zou, Xiaoqing Ye, Xiang Bai",
     "venue": "CVPR 2023",
     "year": 2023,
     "image": "images/sood.png",
