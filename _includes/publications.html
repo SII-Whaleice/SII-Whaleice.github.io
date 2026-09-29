@@ -1,0 +1,35 @@
+{% assign publications = site.data.publications | sort: 'order' | reverse %}
+{% assign text_papers = "" %}
+<div class="publications">
+  {% for paper in publications %}
+  {% assign authors = paper.authors | split: ', ' %}
+  {% assign show_image = false %}
+  {% for author in authors limit:3 %}
+    {% assign name = author | remove: '*' | strip %}
+    {% if name == 'Jingyu Li' %}{% assign show_image = true %}{% endif %}
+  {% endfor %}
+  {% capture author_list %}{% for author in authors %}{% assign name = author | remove: '*' | strip %}{% if name == 'Jingyu Li' %}<strong>{{ author | escape }}</strong>{% else %}{{ author | escape }}{% endif %}{% unless forloop.last %}, {% endunless %}{% endfor %}{% endcapture %}
+  {% if show_image %}
+  <div class="publication publication--featured">
+    <div class="publication__image">
+      {% if paper.image and paper.image != '' %}
+      <img src="{{ paper.image | relative_url }}" alt="{{ paper.title | escape }}" loading="lazy">
+      {% else %}
+      <div class="publication__placeholder" aria-label="Paper image placeholder">Preview coming soon</div>
+      {% endif %}
+    </div>
+    <div class="publication__text">
+      <p class="publication__title"><a href="{{ paper.url | escape }}">{{ paper.title | escape }}</a></p>
+      <p class="publication__authors">{{ author_list }}</p>
+      <p class="publication__links"><span>{{ paper.venue | escape }}</span> · <a href="{{ paper.url | escape }}">Paper</a>{% if paper.code != '' %} · <a href="{{ paper.code | escape }}">Code</a>{% endif %}</p>
+    </div>
+  </div>
+  {% else %}
+  {% capture text_paper %}<li><a href="{{ paper.url | escape }}">{{ paper.title | escape }}</a>, {{ author_list }}, <strong>{{ paper.venue | escape }}</strong></li>{% endcapture %}
+  {% assign text_papers = text_papers | append: text_paper %}
+  {% endif %}
+  {% endfor %}
+  {% if text_papers != "" %}
+  <ul class="publication-list">{{ text_papers }}</ul>
+  {% endif %}
+</div>

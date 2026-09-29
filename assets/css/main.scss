@@ -107,3 +107,59 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+// Publications: reserve an image when Jingyu Li is among the first three authors.
+.publication {
+    padding: 1em 0;
+    border-bottom: 1px solid #efefef;
+
+    .publication__title { margin: 0 0 .35em; }
+    .publication__authors { margin: 0; font-size: .9em; line-height: 1.6; }
+    .publication__links { margin: .45em 0 0; font-size: .85em; }
+}
+
+.publication--featured {
+    display: flex;
+    align-items: center;
+    gap: 1.25em;
+    padding: 1.25em 0;
+}
+
+.publication__image {
+    flex: 0 0 180px;
+    width: 180px;
+
+    img {
+        display: block;
+        width: 100%;
+        height: auto;
+        max-height: 150px;
+        object-fit: contain;
+    }
+}
+
+.publication__placeholder {
+    height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px dashed #cbd2d9;
+    border-radius: 4px;
+    background: #f8fafc;
+    color: #687582;
+    font-size: .75em;
+}
+
+.publication__text { flex: 1; min-width: 0; overflow-wrap: anywhere; }
+
+@media (max-width: 600px) {
+    .publication--featured { flex-direction: column; align-items: flex-start; gap: .8em; }
+    .publication__image { flex: none; width: 160px; max-width: 100%; }
+}
+
+// Text-only papers use a compact bullet with no image column or placeholder.
+.publication-list {
+    margin: .6em 0;
+    padding-left: 1.25em;
+    list-style-type: disc;
+    li { margin: 0; line-height: 1.6; overflow-wrap: anywhere; }
+}
